@@ -1,4 +1,4 @@
-const number = 1000
+const number = 100
 
 const fizzBuzz = number => {
 	for (let i = 1; i <= number; i++) {
